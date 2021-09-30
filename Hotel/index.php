@@ -39,7 +39,7 @@ include('db.php');
 			<div class="contact-bnr-w3-agile">
 				<ul>
 					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">INFO@NBJ LA.COM</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+94 (65)222-44-55</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></ 0700254743</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">

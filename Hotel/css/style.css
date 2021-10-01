@@ -31,7 +31,7 @@ input[type="button"],input[type="submit"]{
 h1,h2,h3,h4,h5,h6{
 	margin:0;
 	font-family: 'Federo', sans-serif;
-    font-weight: 600;
+    font-weight: 700;
 }	
 p{
 	margin:0;
@@ -400,7 +400,7 @@ li.menu__item:nth-child(6) {
 .header-w3layouts{
     position: absolute;
     top: 0;
-    z-index: 99;
+    z-index: 98;
     text-align: center;
     left: 0;
     width: 100%;

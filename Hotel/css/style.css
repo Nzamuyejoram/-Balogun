@@ -271,10 +271,10 @@ nav.navbar.navbar-default {
 }
 .navbar-brand {
     padding: 0;
-    font-size: 31px;
+    font-size: 34px;
     text-transform: uppercase;
-    letter-spacing: 5px;
-    line-height: 25px;
+    letter-spacing: 6px;
+    line-height: 27px;
     position: relative;
     font-weight: bold;
 }

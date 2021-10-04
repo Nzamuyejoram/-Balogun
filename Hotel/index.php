@@ -97,7 +97,7 @@ include('db.php');
 
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>SUN RISE</h4>
+								<h4>NBJ LA HOTEL</h4>
 									<h3>We know what you love</h3>
 										<p>Welcome to our hotels</p>
 									<div class="agileits_w3layouts_more menu__item">

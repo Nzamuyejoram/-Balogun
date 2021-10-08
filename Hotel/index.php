@@ -251,10 +251,10 @@ include('db.php');
 			 <div class="col-md-6 advantage-grid right-w3ls wow zoomIn" data-wow-delay="0.3s">
 			 	<div class="advantage-block">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
-			 		<h4>24 Hour Restaurant</h4>
-			 		<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>24 hours room service</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>24-hour Concierge service</p>
+			 		<h4>24/7 Hour Restaurant</h4>
+			 		<p></p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>24/7 hours room service</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>24/7hour Concierge service</p>
 			 	</div>
 			 </div>
 			<div class="clearfix"> </div>

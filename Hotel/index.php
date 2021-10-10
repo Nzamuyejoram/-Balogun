@@ -125,7 +125,7 @@ include('db.php');
 						<div class="w3layouts-banner-top w3layouts-banner-top2">
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>SUN RISE</h4>
+								<h4>NBJ LA HOTEL</h4>
 								<h3>want luxurious vacation?</h3>
 										<p>Get accommodation today</p>
 									<div class="agileits_w3layouts_more menu__item">
@@ -156,10 +156,10 @@ include('db.php');
 								<div class="modal-content">
 									<div class="modal-header">
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
-										<h4>SUN  <span>RISE</span></h4>
+										<h4>NBJ  <span>LA HOTEL</span></h4>
 										<img src="images/1.jpg" alt=" " class="img-responsive">
 										<h5>We know what you love</h5>
-										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
+										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes NBJ LA  Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
 									</div>
 								</div>
 							</div>
@@ -287,9 +287,9 @@ include('db.php');
 						<div class="col-md-6 team-img-w3-agile">
 						</div>
 						<div class="col-md-6 team-Info-agileits">
-							<h4>Lucas Jimenez</h4>
+							<h4>NZAMUYE JORAM</h4>
 							<span>Manager</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
+							<p> .</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -305,9 +305,9 @@ include('db.php');
 					<div class="col-md-6 team-img-w3-agile">
 						</div>
 						<div class="col-md-6 team-Info-agileits">
-							<h4>Sarah Connor</h4>
+							<h4>ROSETTE SARAH</h4>
 							<span>Receptionist</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>	
+							<p> .</p>	
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -324,8 +324,8 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Ivan Simpson</h4>
-							<span>Manager</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
+							<span> CHEF</span>
+							<p> .</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -341,9 +341,9 @@ include('db.php');
 					<div class="col-md-6 team-img-w3-agile">
 						</div>
 						<div class="col-md-6 team-Info-agileits">
-							<h4>Marc Gutierrez</h4>
+							<h4>AMINA DOUCE</h4>
 							<span>Receptionist</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
+							<p>.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -366,7 +366,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>SUN RISE</h4>
+						<h4>NBJ LA HOTEL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
 				</a>
@@ -374,7 +374,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g2.jpg" class="swipebox"><img src="images/g2.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>SUN RISE</h4>
+						<h4>NBJ LA HOTEL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
 				</a>
@@ -382,7 +382,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g3.jpg" class="swipebox"><img src="images/g3.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>SUN RISE</h4>
+						<h4>NBJ LA HOTEL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
 				</a>
@@ -406,7 +406,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g6.jpg" class="swipebox"><img src="images/g6.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>SUN RISE</h4>
+						<h4>NBJ LA HOTEL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 					   </div>
 				   </a>
@@ -414,7 +414,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g6.jpg" class="swipebox"><img src="images/g7.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>SUN RISE</h4>
+						<h4>NBJ LA HOTEL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 					   </div>
 				   </a>
@@ -422,7 +422,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g6.jpg" class="swipebox"><img src="images/g8.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>SUN RISE</h4>
+						<h4>NBJ LA HOTEL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 					   </div>
 				   </a>

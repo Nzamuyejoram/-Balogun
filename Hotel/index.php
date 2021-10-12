@@ -568,7 +568,7 @@ include('db.php');
   <!-- visitors -->
 	<div class="w3l-visitors-agile" >
 		<div class="container">
-                 <h3 class="title-w3-agileits title-black-wthree">What other visitors experienced</h3> 
+                 <h3 class="title-w3-agileits title-black-wthree">What other visitors descovered</h3> 
 		</div>
 		<div class="w3layouts_work_grids">
 			<section class="slider">
@@ -590,11 +590,9 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
+								<p>. </p>
 								<h5>Julia Rose</h5>
-								<p>Germany</p>
+								<p>Congolese</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -614,11 +612,9 @@ include('db.php');
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
+								<p> </p>
 								<h5>Jahnatan Smith</h5>
-								<p>United States</p>
+								<p>Kenyan</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -638,9 +634,7 @@ include('db.php');
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
+								<p> </p>
 								<h5>Rosalind Cloer</h5>
 								<p>Italy</p>
 							</div>
@@ -662,9 +656,7 @@ include('db.php');
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
+								<p> </p>
 								<h5>Amie Bublitz</h5>
 								<p>Switzerland</p>
 							</div>
